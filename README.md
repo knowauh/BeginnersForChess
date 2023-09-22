@@ -6,7 +6,7 @@ Openings4Chess!
   <body style="background-color:#0BC9BD;">
   <body> 
     <h1> Learn Three Different Openings </h1>
-    <p> <a href="#Vienna"> The Vienna Game </a> , <a href="#Caro-Kann"> Caro-Kann </a>, <a href="Dutch"> Dutch </a></p>
+    <p> <a href="#Vienna"> Vienna Game </a> , <a href="#Caro-Kann"> Caro-Kann </a>, <a href="Dutch"> Dutch </a></p>
       <p> By: Modina, Noah (<em> intermediate chess player </em> ) </p>
       <img src="">
          <h3> What is Chess? </h3>
@@ -20,7 +20,7 @@ Openings4Chess!
              <li> the <strong>king</strong> = objectively the most valuable piece on the board; targeted for victory </li>
            </ul>
   <h4> What are openings?</h4>
-    <p> Openings are defined as chess <em> theory</em>. They are studied, put into practice, and often repeated in the thousands, hence they are given names. The origins of these openings are from individuals of higher rating, in which the moves played at the start of a game are called "<strong>book moves</strong>."<br>Chess beginners are strongly encouraged to learn such openings, expanding on their knowledge about certain book moves; do not expect to know every move, since some variations are commonly irrelevant in certain ratings and will likely not be put into use. </p>
+    <p> Openings are defined as chess <em> theory</em>. They are studied, put into practice, and often repeated in the thousands, hence they are given names via the creator. Openings are comprised of moves called "<strong>book moves</strong>."<br> It is strongly encouraged for chess beginners to learn openings, studying separate variations; do not expect to know every move, since some variations are commonly irrelevant in certain ratings and will likely not be put into use. </p>
     <div id="Vienna">
       <h2> The Vienna Game </h2>
       <p> The opening moves to the Vienna goes as the following: </p>
@@ -28,7 +28,7 @@ Openings4Chess!
           <li> e4   e5 </li>
           <li> Nc3 </li>
         </ol>
-        <p> In an unorthodox manner,</p>
+        <p> In an unorthodox manner (for beginners), White plays the move <em> Nc3 </em> (see above). These moves are the foundation for the Vienna, as it can transpire into multiple variations. </p>
     
 
 
