@@ -25,9 +25,10 @@ Openings4Chess!
       <h2> The Vienna Game </h2>
       <p> The opening moves to the Vienna goes as the following: </p>
         <ol> 
-          <li> 1.) e4   e5 </li>
-          
+          <li> e4   e5 </li>
+          <li> Nc3 </li>
         </ol>
+        <p> In an unorthodox manner,</p>
     
 
 
