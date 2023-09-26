@@ -28,7 +28,7 @@ Openings4Chess!
           <li> e4   e5 </li>
           <li> Nc3 </li>
         </ol>
-        <img src="https://www.chess.com/share/opening/default/Vienna-Game" height="20" width="30"/>
+        <img src="https://www.chess.com/share/opening/default/Vienna-Game" height="20" width="40"/>
         <p> In an unorthodox manner (for beginners), White plays the move <em> Nc3 </em> (see above). These moves are the foundation for the Vienna, as it can transpire into multiple variations. </p>
     </div>
         <h3> Vienna Gambit </h3>
