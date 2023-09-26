@@ -17,7 +17,7 @@ Openings4Chess!
              <li> the <strong>bishop </strong>= 3 points </li>
              <li> the <strong>rook</strong> = 5 points </li>
              <li> the <strong>queen</strong> = 9 poInts </li>
-             <li> the <strong>king</strong> = ∞ points: objectively the most valuable piece on the board; targeted for victory </li>
+             <li> the <strong>king</strong> = ∞ points; the target </li>
            </ul>
   <h4> What are openings?</h4>
     <p> Openings are defined as chess <em> theory</em>. They are studied, put into practice, and often repeated in the thousands, hence they are given names via the creator. Openings are comprised of moves called "<strong>book moves</strong>."<br> It is strongly encouraged for chess beginners to learn openings, studying separate variations; do not expect to know every move, since some variations are commonly irrelevant in certain ratings and will likely not be put into use. </p>
