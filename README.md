@@ -6,7 +6,7 @@ Openings4Chess!
   <body style="background-color:#0BC9BD;">
   <body> 
     <h1> Learn The Vienna Game </h1>
-    <p> <a href="#Vienna"> Learn its Popular Variations </a>
+    <p> <a href="#Vienna"> First Moves </a>
       <p> By: Modina, Noah (<em> intermediate chess player </em> ) </p>
       <img src="" alt="Chess Brilliants">
          <h3> What is Chess? </h3>
@@ -30,6 +30,7 @@ Openings4Chess!
         </ol>
         <img src="">
         <p> In an unorthodox manner (for beginners), White plays the move <em> Nc3 </em> (see above). These moves are the foundation for the Vienna, as it can transpire into multiple variations. </p>
+    </div>
         <h3> Vienna Gambit </h3>
         <p> After the following steps (above), black can play <em> Nf6 </em>. An immediate follow-up that starts the Gambit is <em> f4 </em>. </p>
         <img src="">
