@@ -33,7 +33,7 @@ Openings4Chess!
     </div>
         <h3> Vienna Gambit </h3>
         <p> After the following steps (above), black can play <em> Nf6 </em>. An immediate follow-up that starts the Gambit is <em> f4 </em>. </p>
-        <img src="">
+        <img src="https://images.chesscomfiles.com/uploads/v1/images_users/tiny_mce/vitualis/phpDinsjQ.png"/>
         <p> If black takes (inaccuracy), push the <em> e </em> pawn to kick out the knight; it is forced to move back to its original square, or capture it for free otherwise. Develop normally and eventually win back the pawn.</p>
         <img src="">
         <p> If black plays Qe7, pinning the pawn to the king and preventing it from capturing the knight, play Qe2 in response. The knight is, then, forced to return to its original square. Develop normally. </p>
