@@ -8,7 +8,7 @@ Openings4Chess!
     <h1> Learn The Vienna Game </h1>
     <p> <a href="#Vienna"> First Moves </a>
       <p> By: Modina, Noah (<em> intermediate chess player </em> ) </p>
-      <img src="file:///C:/Users/nomof/Downloads/IMG-5704.jpg" alt="Chess Brilliants">  <img src="file:///C:/Users/nomof/Downloads/IMG-5702.jpg" alt="Chess Brilliants"> 
+      <img src="file:///C:/Users/nomof/Downloads/IMG-5704.jpg" alt="Chess Brilliants"/>  <img src="file:///C:/Users/nomof/Downloads/IMG-5702.jpg" alt="Chess Brilliants"/> 
          <h3> What is Chess? </h3>
            <p> <i> Chess </i>, as many know it, incorporates six distinct pieces, each with a unique role that, when together, are necessary for victory. Sides of black and white are taken before the match begins; the pieces are named from the following: the pawn, knight, bishop, rook, queen, and king.</p>
            <ul>
