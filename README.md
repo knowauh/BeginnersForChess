@@ -5,8 +5,8 @@ Openings4Chess!
 <html>
   <body style="background-color:#0BC9BD;">
   <body> 
-    <h1> Learn Three Different Openings </h1>
-    <p> <a href="#Vienna"> Vienna Game </a> , <a href="#Caro-Kann"> Caro-Kann </a>, <a href="Dutch"> Dutch </a></p>
+    <h1> Learn The Vienna Game </h1>
+    <p> <a href="#Vienna"> Learn its Popular Variations </a>
       <p> By: Modina, Noah (<em> intermediate chess player </em> ) </p>
       <img src="" alt=chess brilliants>
          <h3> What is Chess? </h3>
@@ -28,7 +28,7 @@ Openings4Chess!
           <li> e4   e5 </li>
           <li> Nc3 </li>
         </ol>
-        <img src="C:\Users\1APCSP\Desktop\vienna_game.png">
+        <img src="">
         <p> In an unorthodox manner (for beginners), White plays the move <em> Nc3 </em> (see above). These moves are the foundation for the Vienna, as it can transpire into multiple variations. </p>
     
 
