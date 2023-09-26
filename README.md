@@ -30,6 +30,14 @@ Openings4Chess!
         </ol>
         <img src="">
         <p> In an unorthodox manner (for beginners), White plays the move <em> Nc3 </em> (see above). These moves are the foundation for the Vienna, as it can transpire into multiple variations. </p>
+        <h3> Vienna Gambit </h3>
+        <p> After the following steps (above), black can play <em> Nf6 </em>. An immediate follow-up that starts the Gambit is <em> f4 </em>. </p>
+        <img src="">
+        <p> If black takes (innaccuracy), push the <em> e </em> pawn to kick out the knight; it is forced to move back to its original square, or capture it for free otherwise. Develop normally and eventually win back the pawn.</p>
+        <img src="">
+        <p> If black plays Qe7, pinning the pawn to the king and preventing it from capturing the knight, play Qe2 in response. The knight is, then, forced to return to its original square. Develop normally. </p>
+        <h4> Brilliant Line:</h4>
+        <p> If black, on the next move, plays d6, kicking out the pawn in the center, immediately strike with Nd5, attacking the king. If black doesn't defend its c7 square with its queen, it will lose material from a fork (checking the king, threatening the rook). If the opponent doesn't know this line, they will probably move their queen back, protecting the c7 square. Then strike with the move Knight takes c7 anyways, and if black doesn't take the "free" knight, it will fall victim to a fork. Once black plays Qxc7, take the the d pawn with the e pawn, leading to a discovered check (since the queen is on the e file). The king is forced to move while their queen is being attacked, so white simply captures the free queen and eventually goes on to win the game. </p>
     
 
 
