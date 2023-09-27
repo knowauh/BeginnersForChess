@@ -66,7 +66,6 @@ Learn an opening
           <h2> Wrap-Up </h2>
           <p> The Vienna Game is a reliable opening for beginners that involves trickery with little studying necessary. It has been my main opening, allowing me to reach the rating that I have currently. <br><br> By: Modina, Noah (<em> intermediate chess player </em> ) </p>
           <ul>
-            <li> Current Brilliant Counter (of the ones I game reviewed): 20 </li>
+            <li> Current Brilliant Counter (of the ones game-reviewed): 20 </li>
           </ul>
   </body>
-</html>
