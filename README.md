@@ -1,6 +1,4 @@
-# chess_site
-Openings4Chess!
-
+# Chessite
 <!DOCTYPE html>
 <html>
   <body style="background-color:#0BC9BD;">
@@ -69,27 +67,5 @@ Openings4Chess!
           <ul>
             <li> Current Brilliant Counter (of the ones I game reviewed): 20 </li>
           </ul>
-        
-    
-
-
-  
-  
   </body>
-    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
 </html>
