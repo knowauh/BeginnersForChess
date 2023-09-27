@@ -6,13 +6,14 @@ Openings4Chess!
   <body style="background-color:#0BC9BD;">
   <body> 
     <h1> Learn The Vienna Game </h1>
-    <p> <a href="#Vienna"> First Moves </a> </p>
+    <p> <a href="#Introduction"> The Basics </a> </p>
     <ul>
       <li> <a href="#Gambit">Vienna Gambit </a> </li>
       <li> <a href="#Copycat"> Copycat Variation </a> </li>
     </ul>
       <p> By: Modina, Noah (<em> intermediate chess player </em> ) </p>
       <img src="https://github.com/knowauh/chess_site/blob/main/images/IMG-5702.jpg?raw=true" height="240" width="240" alt="Chess Brilliants"/>  <img src="https://github.com/knowauh/chess_site/blob/main/images/IMG-5704.jpg?raw=true" height="240" width="240" alt="Chess Brilliants"/> 
+    <div id="Introduction">
          <h3> What is Chess? </h3>
            <p> <i> Chess </i>, as many know it, incorporates six distinct pieces, each with a unique role that, when together, are necessary for victory. Sides of black and white are taken before the match begins; the pieces are named from the following: the pawn, knight, bishop, rook, queen, and king.</p>
            <ul>
@@ -25,7 +26,7 @@ Openings4Chess!
            </ul>
   <h4> What are openings?</h4>
     <p> Openings are defined as chess <em> theory</em>. They are studied, put into practice, and often repeated in the thousands, hence they are given names via the creator. Openings are comprised of moves called "<strong>book moves</strong>."<br> It is strongly encouraged for chess beginners to learn openings, by studying separate variations; do not expect to know every move, since some variations are commonly irrelevant in certain ratings and will likely not be put into use. </p>
-    <div id="Vienna">
+    </div>
       <h2> The Vienna Game </h2>
       <p> The opening moves to the Vienna goes as follows: </p>
         <ol> 
@@ -34,7 +35,6 @@ Openings4Chess!
         </ol>
         <img src="https://www.chess.com/share/opening/default/Vienna-Game" height="240" width="400"/>
         <p> In an unorthodox manner (for beginners), White plays the move <em> Nc3 </em> (see above). These moves are the foundation for the Vienna, as it can transpire into multiple variations. </p>
-    </div>
     <div id="Gambit"> 
         <h3> Vienna Gambit </h3>
         <p> After the following steps (above), black can play <em> Nf6 </em>. An immediate follow-up that starts the Gambit is <em> f4 </em>. </p>
