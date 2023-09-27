@@ -11,7 +11,6 @@ Openings4Chess!
       <li> <a href="#Gambit">Vienna Gambit </a> </li>
       <li> <a href="#Copycat"> Copycat Variation </a> </li>
     </ul>
-      <p> By: Modina, Noah (<em> intermediate chess player </em> ) </p>
       <img src="https://github.com/knowauh/chess_site/blob/main/images/IMG-5702.jpg?raw=true" height="240" width="240" alt="Chess Brilliants"/>  <img src="https://github.com/knowauh/chess_site/blob/main/images/IMG-5704.jpg?raw=true" height="240" width="240" alt="Chess Brilliants"/> 
     <div id="Introduction">
          <h3> What is Chess? </h3>
@@ -66,7 +65,10 @@ Openings4Chess!
     </div>
           <br><br><br><br>
           <h2> Wrap-Up </h2>
-          <p> The Vienna Game is a reliable opening for beginners that involves trickery with little studying necessary. It has been my main opening, allowing me to reach the rating that I have currently. </p>
+          <p> The Vienna Game is a reliable opening for beginners that involves trickery with little studying necessary. It has been my main opening, allowing me to reach the rating that I have currently. <br><br> By: Modina, Noah (<em> intermediate chess player </em> ) </p>
+          <ul>
+            <li> Current Brilliant Counter (of the ones I game reviewed): 20 </li>
+          </ul>
         
     
 
