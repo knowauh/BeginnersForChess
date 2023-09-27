@@ -5,10 +5,10 @@ Learn an opening
   <body style="background-color:#545454;">
   <body> 
     <h1> Learn The Vienna Game </h1>
-    <p> <a href="#Introduction"> The Basics </a> </p>
+    <p style="color:white"> <a href="#Introduction"> The Basics </a> </p>
     <ul>
-      <li> <a href="#Gambit">Vienna Gambit </a> </li>
-      <li> <a href="#Copycat"> Copycat Variation </a> </li>
+      <li style="color:white"> <a href="#Gambit">Vienna Gambit </a> </li>
+      <li style="color:white"> <a href="#Copycat"> Copycat Variation </a> </li>
     </ul>
       <img src="https://github.com/knowauh/chess_site/blob/main/images/IMG-5702.jpg?raw=true" height="240" width="240" alt="Chess Brilliants"/>  <img src="https://github.com/knowauh/chess_site/blob/main/images/IMG-5704.jpg?raw=true" height="240" width="240" alt="Chess Brilliants"/> 
     <div id="Introduction">
@@ -59,7 +59,7 @@ Learn an opening
         <img src="https://github.com/knowauh/chess_site/blob/main/images/2023-09-26%20(2).png?raw=true" height="240" width="240"/>
         <p> As you can see, the copycat variation looks exactly as it sounds; the lines can get tricky, but white is in a winning position if played correctly. </p>
         <ul>
-          <li> <a href="https://ocfchess.org/copycat-variation-vienna/" target="_blank"> To learn more, see this website. </a> </li>
+          <li style="color:white"> <a href="https://ocfchess.org/copycat-variation-vienna/" target="_blank"> To learn more, see this website. </a> </li>
         </ul>
     </div>
           <br><br>
