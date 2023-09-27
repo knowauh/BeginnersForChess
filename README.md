@@ -59,12 +59,14 @@ Openings4Chess!
       </ol>
       <p> play Qg4, threatening the weak g7 pawn. </p>
         <img src="https://github.com/knowauh/chess_site/blob/main/images/2023-09-26%20(2).png?raw=true" height="240" width="240"/>
-        <p> As you can see, the copycat variation looks exactly as it sounds like; the lines can get tricky, but white is in a winning position. </p>
+        <p> As you can see, the copycat variation looks exactly as it sounds; the lines can get tricky, but white is in a winning position if played correctly. </p>
         <ul>
           <li> <a href="https://ocfchess.org/copycat-variation-vienna/" target="_blank"> To learn more, see this website. </a> </li>
         </ul>
     </div>
-          
+          <br><br><br><br>
+          <h2> Wrap-Up </h2>
+          <p> The Vienna Game is a reliable opening for beginners that involves trickery with little studying necessary. It has been my main opening, allowing me to reach the rating that I have currently. </p>
         
     
 
