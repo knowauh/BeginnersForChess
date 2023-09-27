@@ -3,7 +3,6 @@ Learn an opening
 
 <html>
   <body style="background-color:#545454;">
-    <body text="white">
   <body> 
     <h1> Learn The Vienna Game </h1>
     <p> <a href="#Introduction"> The Basics </a> </p>
