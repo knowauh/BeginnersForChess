@@ -31,7 +31,7 @@ Learn an opening
           <li> e4   e5 </li>
           <li> Nc3 </li>
         </ol>
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOOuq7NAUpyq4SVK4GiwEUs5qeOzON0xpUe_mntlgKh0lqc8KXwfvnfOYTBYsHQB9YNBM&usqp=CAU" height="240" width="240" alt="Vienna Game Opening Moves"/>
+        <img src="https://github.com/knowauh/ChessForBeginners/blob/main/images/vienna_game.png?raw=true" height="240" width="240" alt="Vienna Game Opening Moves"/>
         <p> In an unorthodox manner (for beginners), White plays the move <em> Nc3 </em> (see above). These moves are the foundation for the Vienna, as it can transpire into multiple variations. </p>
     <div id="Gambit"> 
         <h3> Vienna Gambit </h3>
