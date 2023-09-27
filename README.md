@@ -69,3 +69,4 @@ Learn an opening
             <li> Current Brilliant Counter (of the ones game-reviewed): 20 </li>
           </ul>
   </body>
+  </html>
