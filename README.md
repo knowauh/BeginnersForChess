@@ -1,4 +1,5 @@
 # Chessite
+Learn an opening
 <!DOCTYPE html>
 <html>
   <body style="background-color:#0BC9BD;">
