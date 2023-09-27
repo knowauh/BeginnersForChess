@@ -63,7 +63,7 @@ Openings4Chess!
           <li> <a href="https://ocfchess.org/copycat-variation-vienna/" target="_blank"> To learn more, see this website. </a> </li>
         </ul>
     </div>
-          <br><br><br><br>
+          <br><br>
           <h2> Wrap-Up </h2>
           <p> The Vienna Game is a reliable opening for beginners that involves trickery with little studying necessary. It has been my main opening, allowing me to reach the rating that I have currently. <br><br> By: Modina, Noah (<em> intermediate chess player </em> ) </p>
           <ul>
