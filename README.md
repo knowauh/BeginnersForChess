@@ -51,7 +51,7 @@ Openings4Chess!
         <li> Bc4   Bc5 </li>
       </ol>
       <p> play Qg4, threatening the weak g7 pawn. 
-        <img src=>
+        <img src="https://github.com/knowauh/chess_site/blob/main/images/2023-09-26%20(2).png?raw=true" height="240" width="240"/>
         As you can see, the copycat variation looks exactly as it sounds like; the lines can get tricky, but white is in a winning position. </p>
         <ul>
           <li> <a href="https://ocfchess.org/copycat-variation-vienna/" target="_blank"> To learn more, see this website. </a> </li>
