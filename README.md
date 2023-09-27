@@ -5,7 +5,7 @@ Learn an opening
   <body style="background-color:#545454;">
   <body> 
     <h1> Learn The Vienna Game </h1>
-    <p style="color:white"> <a href="#Introduction"> The Basics </a> </p>
+    <p> <a href="#Introduction"> The Basics </a> </p>
     <ul>
       <li> <a href="#Gambit">Vienna Gambit </a> </li>
       <li> <a href="#Copycat"> Copycat Variation </a> </li>
