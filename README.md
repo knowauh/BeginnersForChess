@@ -42,7 +42,7 @@ Learn an opening
         <p> If black plays Qe7, pinning the pawn to the king and preventing it from capturing the knight, play Qe2 in response. The knight is, then, forced to return to its original square. Develop normally. </p>
       <img src="https://github.com/knowauh/BeginnersForChess/blob/main/images/2023-09-26%20(3).png?raw=true" height="240"  width="240"/>
         <h4> Brilliant Line:</h4>
-        <p> If black, on the next move, plays d6, kicking out the pawn in the center, immediately strike with Nd5, attacking the king. If black doesn't defend its c7 square with its queen, it will lose material from a fork (checking the king, threatening the rook). If the opponent doesn't know this line, they will probably move their queen back, protecting the c7 square. </p>
+        <p> If black, on the next move, plays d6, kicking out the pawn in the center, immediately strike with Nd5, attacking the queen. If black doesn't defend its c7 square with its queen, it will lose material from a fork (checking the king, threatening the rook). If the opponent doesn't know this line, they will probably move their queen back, protecting the c7 square. </p>
         <img src="https://github.com/knowauh/chess_site/blob/main/images/2023-09-26.png?raw=true" height="240" width="240"/>
           <p> Then strike with the move Knight takes c7 anyways, and if black doesn't take the "free" knight, it will fall victim to a fork. </p>
         <img src="https://github.com/knowauh/chess_site/blob/main/images/2023-09-26%20(1).png?raw=true" height="240" width="240"/>
