@@ -11,7 +11,7 @@ Learn an opening
       <li> <a href="#Gambit">Vienna Gambit </a> </li>
       <li> <a href="#Copycat"> Copycat Variation </a> </li>
     </ul>
-      <img src="https://github.com/knowauh/ChessForBeginners/blob/main/images/IMG-5702.jpg?raw=true"/>  <img src="https://github.com/knowauh/chess_site/blob/main/images/IMG-5704.jpg?raw=true" height="240" width="240" alt="Chess Brilliants"/> 
+      <img src="https://github.com/knowauh/ChessForBeginners/blob/main/images/IMG-5702.jpg?raw=true" height="240" width="240"/>  <img src="hhttps://github.com/knowauh/ChessForBeginners/blob/main/images/IMG-5704.jpg?raw=true" height="240" width="240" alt="Chess Brilliants"/> 
     <div id="Introduction">
          <h3> What is Chess? </h3>
            <p> <i> Chess</i>, as many know it, incorporates six distinct pieces, each with a unique role that, when together, are necessary for victory. Sides of black and white are taken before the match begins; the pieces are named from the following: the pawn, knight, bishop, rook, queen, and king.</p>
