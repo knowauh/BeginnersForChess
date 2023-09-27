@@ -6,7 +6,11 @@ Openings4Chess!
   <body style="background-color:#0BC9BD;">
   <body> 
     <h1> Learn The Vienna Game </h1>
-    <p> <a href="#Vienna"> First Moves </a>
+    <p> <a href="#Vienna"> First Moves </a> </p>
+    <ul>
+      <li> <a href="#Gambit">Vienna Gambit </a> </li>
+      <li> <a href="#Copycat"> Copycat Variation </a> </li>
+    </ul>
       <p> By: Modina, Noah (<em> intermediate chess player </em> ) </p>
       <img src="https://github.com/knowauh/chess_site/blob/main/images/IMG-5702.jpg?raw=true" height="240" width="240" alt="Chess Brilliants"/>  <img src="https://github.com/knowauh/chess_site/blob/main/images/IMG-5704.jpg?raw=true" height="240" width="240" alt="Chess Brilliants"/> 
          <h3> What is Chess? </h3>
@@ -31,6 +35,7 @@ Openings4Chess!
         <img src="https://www.chess.com/share/opening/default/Vienna-Game" height="240" width="400"/>
         <p> In an unorthodox manner (for beginners), White plays the move <em> Nc3 </em> (see above). These moves are the foundation for the Vienna, as it can transpire into multiple variations. </p>
     </div>
+    <div id="Gambit"> 
         <h3> Vienna Gambit </h3>
         <p> After the following steps (above), black can play <em> Nf6 </em>. An immediate follow-up that starts the Gambit is <em> f4 </em>. </p>
         <img src="https://images.chesscomfiles.com/uploads/v1/images_users/tiny_mce/vitualis/phpDinsjQ.png" height="240"  width="240"/>
@@ -43,6 +48,8 @@ Openings4Chess!
           <p> Then strike with the move Knight takes c7 anyways, and if black doesn't take the "free" knight, it will fall victim to a fork. </p>
         <img src="https://github.com/knowauh/chess_site/blob/main/images/2023-09-26%20(1).png?raw=true" height="240" width="240"/>
       <p> Once black plays Qxc7, take the d pawn with the e pawn, leading to a discovered check (since the queen is on the e file). The king is forced to move while their queen is being attacked, so white simply captures the free queen and eventually goes on to win the game. </p>
+    </div>
+    <div id="Copycat">
       <h3> Vienna Game: Copycat Variation </h3>
       <p>If the order of moves goes as follows...</p>
       <ol>
@@ -56,6 +63,7 @@ Openings4Chess!
         <ul>
           <li> <a href="https://ocfchess.org/copycat-variation-vienna/" target="_blank"> To learn more, see this website. </a> </li>
         </ul>
+    </div>
           
         
     
