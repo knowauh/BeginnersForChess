@@ -8,7 +8,7 @@ Openings4Chess!
     <h1> Learn The Vienna Game </h1>
     <p> <a href="#Vienna"> First Moves </a>
       <p> By: Modina, Noah (<em> intermediate chess player </em> ) </p>
-      <img src="file:///C:/Users/nomof/Downloads/IMG-5704.jpg" alt="Chess Brilliants"/>  <img src="file:///C:/Users/nomof/Downloads/IMG-5702.jpg" alt="Chess Brilliants"/> 
+      <img src="" alt="Chess Brilliants"/>  <img src="" alt="Chess Brilliants"/> 
          <h3> What is Chess? </h3>
            <p> <i> Chess </i>, as many know it, incorporates six distinct pieces, each with a unique role that, when together, are necessary for victory. Sides of black and white are taken before the match begins; the pieces are named from the following: the pawn, knight, bishop, rook, queen, and king.</p>
            <ul>
@@ -33,9 +33,9 @@ Openings4Chess!
     </div>
         <h3> Vienna Gambit </h3>
         <p> After the following steps (above), black can play <em> Nf6 </em>. An immediate follow-up that starts the Gambit is <em> f4 </em>. </p>
-        <img src="https://images.chesscomfiles.com/uploads/v1/images_users/tiny_mce/vitualis/phpDinsjQ.png"/>
+        <img src="https://images.chesscomfiles.com/uploads/v1/images_users/tiny_mce/vitualis/phpDinsjQ.png" height="240"  width="240"/>
         <p> If black takes (inaccuracy), push the <em> e </em> pawn to kick out the knight; it is forced to move back to its original square, or capture it for free otherwise. Develop normally and eventually win back the pawn.</p>
-        <img src="">
+        <img src="https://adventuresofachessnoob.files.wordpress.com/2023/02/2.1-vienna-gambit-accepted-e5.png?w=1024" heigh="240"  width="240"/>
         <p> If black plays Qe7, pinning the pawn to the king and preventing it from capturing the knight, play Qe2 in response. The knight is, then, forced to return to its original square. Develop normally. </p>
         <h4> Brilliant Line:</h4>
         <p> If black, on the next move, plays d6, kicking out the pawn in the center, immediately strike with Nd5, attacking the king. If black doesn't defend its c7 square with its queen, it will lose material from a fork (checking the king, threatening the rook). If the opponent doesn't know this line, they will probably move their queen back, protecting the c7 square. </p>
